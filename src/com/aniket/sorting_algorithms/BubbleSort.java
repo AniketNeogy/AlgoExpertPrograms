@@ -19,7 +19,7 @@ public class BubbleSort {
 	}
 	
 	
-	/* MOAT optimized -- now instead of going to the n-1 position every time we will ignore 
+	/* Most optimized -- now instead of going to the n-1 position every time we will ignore 
 	 * the last index set by the previous step. This is because after every iteration the biggest numbers 
 	 * will get pushed to the last.
 	 * 
